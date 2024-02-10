@@ -13,7 +13,7 @@ For details on data definitions and calculation methods, please refer to the doc
 The search data history is from Google Trends: https://trends.google.com/trends/ 
 
 ## Invitation for Collaboration
-This project is an academic research initiative, and we are open to sharing our findings and collaborating with others in the field. For those interested in delving deeper into our methodology, data sources, and preliminary results, we encourage you to explore the contents of this repository. Your feedback, questions, and suggestions are highly valued as we navigate this fascinating intersection of data science and financial analysis together. If you are interested in contributing to or collaborating on this project, please reach out to us: <br>
+This project is an academic research initiative, and we are open to sharing our findings and collaborating with others in the field. For those interested in delving deeper into our methodology, data sources, and preliminary results, we encourage you to explore the contents of this repository. Your feedback, questions, and suggestions are highly valued as we navigate this fascinating intersection of data science and financial analysis together. If you are interested in contributing to or collaborating on this project, please reach out to us: <br> <br> 
 Name: Edo Airoldi <br>
 Email: airoldi@temple.edu  <br>
 Project Link: https://github.com/datasciencetemple/Trends  <br>
