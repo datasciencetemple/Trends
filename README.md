@@ -6,6 +6,17 @@ An interesting data feature discovered by our team highlights a significant link
 
 The preliminary results are updated to this GitHub repository every weekday morning, reflecting our ongoing commitment to transparency and academic sharing. We believe that by making our research accessible, we can encourage a collaborative environment where scholars and practitioners alike can contribute to and benefit from our findings.
 
+
+## Data Sharing and Compliance Statement:
+
+This research project utilizes publicly available data, including stock market data and Google search trend data. 
+The stock market data is sourced from Yahoo Finance, which provides open access to financial market information: https://pypi.org/project/yfinance/ <br>
+
+Google Trends data is used under its aggregated form to analyze search interest related to stock market terms. Google Trends: https://trends.google.com/trends/ <br> 
+
+Both datasets are publicly accessible and do not contain personal or sensitive information. Our use of this data adheres to the terms of service provided by the respective data sources. This project aims to conduct analysis in an ethical manner, respecting the availability and openness of the data used.
+
+
 ## Data Definitions
 **ticker**: The stock symbol representing a particular company's shares. <br>
 
@@ -19,9 +30,6 @@ The preliminary results are updated to this GitHub repository every weekday morn
 
 **sector**: The sector to which the ticker belongs, categorizing the company into a specific area of the economy. <br> 
 
-
-## Data Sources
-The search data history is from Google Trends: https://trends.google.com/trends/ 
 
 ## Invitation for Collaboration
 This project is an academic research initiative, and we are open to sharing our findings and collaborating with others in the field. For those interested in delving deeper into our methodology, data sources, and preliminary results, we encourage you to explore the contents of this repository. Your feedback, questions, and suggestions are highly valued as we navigate this fascinating intersection of data science and financial analysis together. If you are interested in contributing to or collaborating on this project, please reach out to us: <br> <br> 
