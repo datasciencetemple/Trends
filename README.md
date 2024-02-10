@@ -7,7 +7,7 @@ An interesting data feature discovered by our team highlights a significant link
 The preliminary results are updated to this GitHub repository every weekday morning, reflecting our ongoing commitment to transparency and academic sharing. We believe that by making our research accessible, we can encourage a collaborative environment where scholars and practitioners alike can contribute to and benefit from our findings.
 
 
-## Data Sharing and Compliance Statement:
+## Data Sharing and Compliance Statement
 
 This research project utilizes publicly available data, including stock market data and Google search trend data. <br>
 
