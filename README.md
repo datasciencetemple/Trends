@@ -1,4 +1,4 @@
-# Google Trends and Trading Volume 
+# Google Trends and Stock Volume 
 
 This project aims to explore the relationship between stock trading volumes and trends in Google search data. By analyzing patterns and correlations between search interest for specific stock-related terms and the trading volumes of those stocks, we aim to uncover insights that could be valuable for traders, investors, and researchers alike. The preliminary results are updated to this GitHub repository every weekday morning.
 
