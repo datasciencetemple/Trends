@@ -12,8 +12,8 @@ The search data history is from Google Trends: https://trends.google.com/trends/
 To be added. 
 
 ## Contributing
-This is an academic research project sharing. We welcome contributions from the community. If you're interested in collaborating, please contact: 
-Name: Edo Airoldi
-Email: airoldi@temple.edu 
-Project Link: https://github.com/datasciencetemple/Trends 
+This is an academic research project sharing. We welcome contributions from the community. If you're interested in collaborating, please contact: <br>
+Name: Edo Airoldi <br>
+Email: airoldi@temple.edu  <br>
+Project Link: https://github.com/datasciencetemple/Trends  <br>
 
