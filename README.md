@@ -7,17 +7,17 @@ An interesting data feature discovered by our team highlights a significant link
 The preliminary results are updated to this GitHub repository every weekday morning, reflecting our ongoing commitment to transparency and academic sharing. We believe that by making our research accessible, we can encourage a collaborative environment where scholars and practitioners alike can contribute to and benefit from our findings.
 
 ## Data Definitions
-ticker: The stock symbol representing a particular company's shares. <br>
+**ticker**: The stock symbol representing a particular company's shares. <br>
 
-search_move_24h: This measures the change in Google Trends search interest for the query composed of the ticker symbol and the word "stock" over the most recent 24 hours, compared to the preceding 24 hours (i.e., the last 48-24 hours period). <br>
+**search_move_24h**: This measures the change in Google Trends search interest for the query composed of the ticker symbol and the word "stock" over the most recent 24 hours, compared to the preceding 24 hours (i.e., the last 48-24 hours period). <br>
 
-search_move_3d: This represents the change in Google Trends search interest for the query combining the ticker symbol and "stock" during the latest 24 hours, in comparison to the period covering the 2nd to the 4th day prior. <br>
+**search_move_3d**: This represents the change in Google Trends search interest for the query combining the ticker symbol and "stock" during the latest 24 hours, in comparison to the period covering the 2nd to the 4th day prior. <br>
 
-search_move_6d: This indicates the change in Google Trends search interest for the query that includes the ticker symbol and "stock" over the most recent 24 hours, compared to the period spanning the 2nd to the 7th day prior. <br>
+**search_move_6d**: This indicates the change in Google Trends search interest for the query that includes the ticker symbol and "stock" over the most recent 24 hours, compared to the period spanning the 2nd to the 7th day prior. <br>
 
-sort: Entries are sorted based on the search_move_24h value, highlighting the stocks with the most significant changes in search interest over the last 24 hours. <br>
+**sort**: Entries are sorted based on the search_move_24h value, highlighting the stocks with the most significant changes in search interest over the last 24 hours. <br>
 
-sector: The sector to which the ticker belongs, categorizing the company into a specific area of the economy. <br> 
+**sector**: The sector to which the ticker belongs, categorizing the company into a specific area of the economy. <br> 
 
 
 ## Data Sources
