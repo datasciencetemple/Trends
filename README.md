@@ -15,11 +15,11 @@ The stock market data is sourced from Yahoo Finance, which provides open access 
 https://finance.yahoo.com/ <br>
 https://pypi.org/project/yfinance/ <br>
 
-Google Trends data is used under its aggregated form to analyze search interest related to stock market terms. Google Trends: <br> 
+Google Trends data is used under its aggregated form to analyze search interest related to stock market terms: <br> 
 https://trends.google.com/trends/ <br> 
 https://pypi.org/project/pytrends/ <br>
 
-Both datasets are publicly accessible and do not contain personal or sensitive information. Our use of this data adheres to the terms of service provided by the respective data sources. This project aims to conduct analysis in an ethical manner, respecting the availability and openness of the data used.
+All datasets are publicly accessible and do not contain personal or sensitive information. Our use of this data adheres to the terms of service provided by the respective data sources. This project aims to conduct analysis in an ethical manner, respecting the availability and openness of the data used.
 
 
 ## Data Definitions
