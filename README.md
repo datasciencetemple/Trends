@@ -9,7 +9,7 @@ The preliminary results are updated to this GitHub repository every weekday morn
 
 ## Data Sharing and Compliance Statement
 
-This research project utilizes publicly available data, including stock market data and Google search trend data. <br>
+This research project utilizes publicly available data source, including stock market data and Google Trends data. <br>
 
 The stock market data is sourced from Yahoo Finance, which provides open access to financial market information: <br>
 https://finance.yahoo.com/ <br>
